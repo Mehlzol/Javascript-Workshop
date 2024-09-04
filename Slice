@@ -1,0 +1,2 @@
+const string = "I need to Pass";
+console.log(dtring.slice(1, 4));
