@@ -1,0 +1,5 @@
+const words = ["Ephiphany", "Vivacious", "Incandescent", "Quintessence", "Zenith"]
+
+const morethanfiveletters= words.filter((words) => {
+    return words > 5 ;
+});
